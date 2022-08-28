@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate Mobile Application Developer from Sudan</h3>
+<h3 align="center">A passionate Mobile Application Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/249senpai" target="blank"><img src="https://img.shields.io/twitter/follow/249senpai?logo=twitter&style=for-the-badge" alt="249senpai" /></a> </p>
 
