@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Social Media App](https://github.com/Mohamed-Ahmed-Salah/social-shopping-app)
 
-- 🌱 I’m currently learning **Data analysis, Project management, React**
+- 🌱 I’m currently learning **Data analysis, Project management, React, Web Security and more!**
 
 - 💬 Ask me about **Flutter**
 
