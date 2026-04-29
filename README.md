@@ -16,9 +16,9 @@
 * 📱 I build **cross-platform and native mobile apps** — Flutter is my main speciality, SwiftUI when I need native features (Home Widget/Live Activity)
 * ⚙️ On the backend I work with **Java Spring Boot** and **ASP.NET** — REST APIs, auth, the whole thing
 * ☁️ Diving deeper into **AWS** and how to actually scale and deploy things properly
-* 🏗️ Getting into **System Design** — understanding how large systems are built and why
+* 🏗️ Interested in **System Design** — understanding how large systems are built and why
 * 🔐 Interested in **Cybersecurity** — especially around mobile and web security, OWASP Top 10
-* 🎯 I like building things end-to-end, from the app screen all the way down to the server
+* 🎯 I like building things end-to-end, from the app screen all the way down to the system behind it.
 
 ---
 
