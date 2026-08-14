@@ -3,7 +3,7 @@
 
 ## 🧐 Me
 
-- 💻 **Stack:** Flutter & SwiftUI for mobile, Java Spring Boot/ASP.NET for backend
+- 💻 **Stack:** Flutter & SwiftUI for mobile, Java Spring Boot for backend.
 - 🔭 Currently working on a **Private Flutter Project**
 - 🌱 Learning **System Design, Cybersecurity & AWS**
 - 📫 Reach me at **mohamedA249@hotmail.com**
